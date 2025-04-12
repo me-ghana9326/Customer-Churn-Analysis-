@@ -1,0 +1,9 @@
+Category ,Age,Salary,Purchased
+a,20,20000,yes
+b,21,15000,no
+c,22,,no
+d,23,5000,yes
+e,,6000,no
+f,25,8000,yes
+g,26,50000,yes
+h,27,9000,yes
